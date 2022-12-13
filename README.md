@@ -15,7 +15,7 @@ A classe contém três variáveis, sendo:
 
 A classe contém três métodos, sendo:
 
-**AdicionarVeiculo**: Método responsável por receber uma placa digitada pelo usuário e guardar na vari�vel **veiculos**.
+**AdicionarVeiculo**: Método responsável por receber uma placa digitada pelo usuário e guardar na variável **veiculos**.
 
 **RemoverVeiculo**: Método responsável por verificar se um determinado veículo está estacionado, e caso positivo, irá pedir a quantidade de horas que ele permaneceu no estacionamento. Após isso, realiza o seguinte cálculo: **precoInicial** * **precoPorHora**, exibindo para o usuário.
 
